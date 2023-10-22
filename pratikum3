@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .kA{
+            height: 150%;
+            width: 33%;
+            float: left;
+        }
+
+        .kB{
+            height: 150%;
+            width: 33%;
+            float: left;
+        }
+
+        .kC{
+            height: 150%;
+            width: 33%;
+            float: left;
+        }
+       .kD{
+            height: 150%;
+            width: 100%;
+            float: right;
+        }
+
+        .kE{
+            height: 150%;
+            width: 33%;
+            float: left;
+        }
+
+        .kF{
+            height: 150%;
+            width: 33%;
+            float: left;
+        }
+
+        .kG{
+            height: 150%;
+            width: 33%;
+            float: left;
+        }
+
+    </style>
+</head>
+<body style="background-color:rgb(135, 151, 222);">
+    <div class="kolom1">
+        <img src="https://png.pngtree.com/thumb_back/fw800/background/20230314/pngtree-cute-cool-cat-animal-using-sunglasses-image_1934432.jpg" width="300">
+    </div>
+
+    <div class="kolom2">
+        <h1>Profile Name</h1>
+        <p>Alamat : Jl Akses UI</p>
+        <p>Email : riyantiasri71@gmail.com</p>
+        <p>Telphone : 082224120547</p>
+    </div>
+
+    <div class="kolom3">
+        <h3>Katagori</h3>
+        <p>saya adalah seorang yang ceria😊</p>
+    </div>
+
+    <div class="kolom4">
+        <h3>
+            Saya adalah seorang mahasiswa yang mendapatkan beasiswa dari yayasan.
+             Sebagai mahasiswa yang rajin dan jujur dengan kemauan yang besar, bertanggung jawab dengan pekerjaan saya.
+            Saya yakin bisa mendapatkan nilai yang sangat memuaskan.
+        </h3>
+    </div>
+
+    <div class="kolom5">
+        <iframe src="https://www.youtube.com/embed/UUWUGYsdodg?si=WoJWkTae34JCMxdZ" frameborder="2"></iframe>
+    </div>
+
+    <div class="kolom6" style="border: 2;">
+        <img src="https://png.pngtree.com/thumb_back/fw800/background/20230314/pngtree-cute-cool-cat-animal-using-sunglasses-image_1934432.jpg" width="100">
+        <img src="https://png.pngtree.com/thumb_back/fw800/background/20230314/pngtree-cute-cool-cat-animal-using-sunglasses-image_1934432.jpg" width="100">
+        <img src="https://png.pngtree.com/thumb_back/fw800/background/20230314/pngtree-cute-cool-cat-animal-using-sunglasses-image_1934432.jpg" width="100">
+        <img src="https://png.pngtree.com/thumb_back/fw800/background/20230314/pngtree-cute-cool-cat-animal-using-sunglasses-image_1934432.jpg" width="100">
+    </div>
+
+    <div class="kolom7">
+        <a href="https://www.youtube.com/watch?v=AVkZm6g44Ho"> akses ke youtube</a>
+        <br>
+        <a href="https://www.google.com/search?q=doraemon+gambar&oq=&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxjCAzIJCAAQRRg7GMIDMgkIARBFGDsYwgMyCQgCEEUYOxjCAzIJCAMQRRg7GMIDMgkIBBBFGDsYwgMyCQgFEEUYOxjCAzIJCAYQRRg7GMIDMgkIBxBFGDsYwgPSAQ0xODQ2OTY5NDhqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8#vhid=Hi2mfADyR4_-LM&vssid=l">Akses ke gambar</a>
+
+    </div>
+
+
+
+
+</body>
+</html>
